@@ -1,4 +1,4 @@
-# Deploying an rgee app to shinyapps.io
+# Deploying a rgee app to shinyapps.io
 
 https://cesar-aybar.shinyapps.io/rgee_app_demo/
 
