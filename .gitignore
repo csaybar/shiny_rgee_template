@@ -36,4 +36,9 @@ vignettes/*.pdf
 *.knit.md
 
 # R Environment Variables
-.Renviron
+# .Renviron
+
+# Earth Engine credentials
+credentials
+
+rsconnect/
